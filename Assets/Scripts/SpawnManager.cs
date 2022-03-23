@@ -5,7 +5,7 @@ using UnityEngine;
 public class SpawnManager : MonoBehaviour
 {
     public GameObject obsPrefab;
-    private Vector3 spawnPos = new Vector3(20, 0, 0);
+    private Vector3 spawnPos = new Vector3(30, 0, 0);
     // Start is called before the first frame update
     void Start()
     {
